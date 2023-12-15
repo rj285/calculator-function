@@ -9,7 +9,7 @@ flag = 0
 while flag == 0:
     
     try:
-        oper = str(input("Enter any operation:: \naddition(add) \nsubstraction(sub) \nmultiplication(mul) \ndivision(div):: "))
+        oper = str(input("----Enter any operation-----:: \naddition(add) \nsubstraction(sub) \nmultiplication(mul) \ndivision(div):: "))
         value_1 = float(input("Enter 1st number: ")) 
         value_2 = float(input("Enter 2nd number: "))
 
